@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gIVvvPrIbvapJ6IdSWd/VhW7QDamTFmDcjVcb6ECbc3+Hy2jJRITJrzuLwgKcuzqrdas0V+yigO66Bne1Xf7lA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Saviour Bruno\\az204App\\az204App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Saviour Bruno\\.nuget\\packages\\microsoft.identity.client\\4.44.0\\microsoft.identity.client.4.44.0.nupkg.sha512"
+  ],
+  "logs": []
+}
